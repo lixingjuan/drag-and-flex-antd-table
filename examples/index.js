@@ -1,7 +1,5 @@
-/* eslint-disable no-console,func-names,react/no-multi-comp */
 import React, { useState } from "react";
-// import ReactDragListView from "../components/index.js";
-import ReactDragListView from "../components/index.js";
+import ReactDragListView from "../src/flexible-table";
 
 import "./index.css";
 import "./dragColumn.css";
